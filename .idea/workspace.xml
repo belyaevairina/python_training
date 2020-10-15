@@ -28,8 +28,8 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.lesson2_1_ step7">
-    <configuration name="просто примерчики тут пиши" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lesson2_4_step8 (1)">
+    <configuration name="ДЗ1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,7 +41,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\ia.belyaeva\Documents\GitHub\python_training\просто примерчики тут пиши.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ia.belyaeva\Documents\GitHub\python_training\ДЗ1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,7 +50,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson1_6_step10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson2_3_step4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +62,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium_course/lesson1_6_step10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium_course/lesson2_3_step4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson2_1_ step7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson2_3_step6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium_course/lesson2_1_ step7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium_course/lesson2_3_step6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson2_1_step5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson2_4_step8 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium_course/lesson2_1_step5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium_course/lesson2_4_step8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson2_1_step6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson2_4_step8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium_course/lesson2_1_step6.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ia.belyaeva\Documents\GitHub\python_training\selenium_course\lesson2_4_step8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,38 +136,38 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson2_1_ step7" />
-        <item itemvalue="Python.lesson2_1_step6" />
-        <item itemvalue="Python.просто примерчики тут пиши" />
-        <item itemvalue="Python.lesson2_1_step5" />
-        <item itemvalue="Python.lesson1_6_step10" />
+        <item itemvalue="Python.lesson2_4_step8 (1)" />
+        <item itemvalue="Python.lesson2_4_step8" />
+        <item itemvalue="Python.ДЗ1" />
+        <item itemvalue="Python.lesson2_3_step6" />
+        <item itemvalue="Python.lesson2_3_step4" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="WindowStateProjectService">
-    <state width="1362" height="275" key="GridCell.Tab.0.bottom" timestamp="1602576663598">
+    <state width="1362" height="275" key="GridCell.Tab.0.bottom" timestamp="1602758783254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602267289096" />
+    <state width="1362" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602758783254" />
     <state width="1362" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602576663598" />
     <state width="1362" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601914656078" />
-    <state width="1362" height="275" key="GridCell.Tab.0.center" timestamp="1602576663598">
+    <state width="1362" height="275" key="GridCell.Tab.0.center" timestamp="1602758783254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602267289096" />
+    <state width="1362" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602758783254" />
     <state width="1362" height="275" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602576663598" />
     <state width="1362" height="275" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601914656077" />
-    <state width="1362" height="275" key="GridCell.Tab.0.left" timestamp="1602576663598">
+    <state width="1362" height="275" key="GridCell.Tab.0.left" timestamp="1602758783254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602267289096" />
+    <state width="1362" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602758783254" />
     <state width="1362" height="275" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602576663598" />
     <state width="1362" height="275" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601914656077" />
-    <state width="1362" height="275" key="GridCell.Tab.0.right" timestamp="1602576663598">
+    <state width="1362" height="275" key="GridCell.Tab.0.right" timestamp="1602758783254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602267289096" />
+    <state width="1362" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602758783254" />
     <state width="1362" height="275" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602576663598" />
     <state width="1362" height="275" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601914656077" />
     <state x="291" y="329" key="SettingsEditor" timestamp="1601924220218">
@@ -185,6 +185,20 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/selenium_course/рецензия1.py</url>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/selenium_course/lesson2_4_step8.py</url>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/selenium_course/lesson2_4_step8.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/selenium_course/lesson2_4_step8.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
